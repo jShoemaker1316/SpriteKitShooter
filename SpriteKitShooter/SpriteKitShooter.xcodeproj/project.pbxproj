@@ -20,6 +20,7 @@
 		10A0E2DB25D6FF5B009896C7 /* Wave.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A0E2DA25D6FF5B009896C7 /* Wave.swift */; };
 		10A0E2DE25D700D0009896C7 /* Bundle-Decoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A0E2DD25D700D0009896C7 /* Bundle-Decoding.swift */; };
 		10A0E2E125D70384009896C7 /* EnemyNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A0E2E025D70384009896C7 /* EnemyNode.swift */; };
+		10A0E2E425DDA753009896C7 /* Explosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 10A0E2E325DDA753009896C7 /* Explosion.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		10A0E2DA25D6FF5B009896C7 /* Wave.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wave.swift; sourceTree = "<group>"; };
 		10A0E2DD25D700D0009896C7 /* Bundle-Decoding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decoding.swift"; sourceTree = "<group>"; };
 		10A0E2E025D70384009896C7 /* EnemyNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnemyNode.swift; sourceTree = "<group>"; };
+		10A0E2E325DDA753009896C7 /* Explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Explosion.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				10A0E2B425D6EC2D009896C7 /* AppDelegate.swift */,
 				10A0E2B625D6EC2E009896C7 /* GameScene.sks */,
 				10A0E2BA25D6EC2E009896C7 /* GameScene.swift */,
+				10A0E2E325DDA753009896C7 /* Explosion.sks */,
 				10A0E2E025D70384009896C7 /* EnemyNode.swift */,
 				10A0E2BC25D6EC2E009896C7 /* GameViewController.swift */,
 				10A0E2BE25D6EC2E009896C7 /* Main.storyboard */,
@@ -150,6 +153,7 @@
 				10A0E2CC25D6EFED009896C7 /* Starfield.sks in Resources */,
 				10A0E2C225D6EC2E009896C7 /* Assets.xcassets in Resources */,
 				10A0E2D125D6FC49009896C7 /* waves.json in Resources */,
+				10A0E2E425DDA753009896C7 /* Explosion.sks in Resources */,
 				10A0E2D025D6FC49009896C7 /* enemy-types.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

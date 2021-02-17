@@ -25,7 +25,8 @@ class GameViewController: UIViewController {
             }
             
             view.ignoresSiblingOrder = true
-            
+            //set fps
+            view.preferredFramesPerSecond = 120
             view.showsFPS = true
             view.showsNodeCount = true
             //creates small outline around object
